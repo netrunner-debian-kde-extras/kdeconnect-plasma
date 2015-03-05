@@ -1,0 +1,48 @@
+Source: kdeconnect-plasma
+Section: kde
+Priority: optional
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+XSBC-Original-Maintainer: Maintainer: David Suárez <david.sephirot@gmail.com>
+Build-Depends: cmake,
+               debhelper (>= 9.0.0),
+               extra-cmake-modules,
+               kio-dev,
+               libfakekey-dev,
+               libkf5configwidgets-dev,
+               libkf5dbusaddons-dev,
+               libkf5iconthemes-dev,
+               libkf5kcmutils-dev,
+               libkf5notifications-dev,
+               libqca-qt5-2-dev,
+               libqjson-dev,
+               libxtst-dev,
+               pkg-config,
+               pkg-kde-tools,
+               qtbase5-dev,
+               qtdeclarative5-dev
+Standards-Version: 3.9.6
+Homepage: https://projects.kde.org/projects/playground/base/kdeconnect-kde
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kdeconnect-plasma.git/
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kdeconnect-plasma.git
+
+Package: kdeconnect-plasma
+Architecture: any
+Depends: libqca-qt5-2-plugins, plasma-workspace, sshfs, ${misc:Depends}, ${shlibs:Depends}
+Conflicts: kdeconnect
+Replaces: kdeconnect
+Description: connect smartphones to your KDE Plasma desktop
+ Tool to integrate the KDE's Plasma desktop with your smartphones and
+ similar devices.
+ .
+ It adds a set of plasmoid, plugins and services to the KDE Plasma Workspace.
+
+Package: kdeconnect-plasma-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: kdeconnect-plasma (= ${binary:Version}), ${misc:Depends}
+Description: connect smartphones to your KDE Plasma desktop
+ Tool to integrate the KDE's Plasma desktop with your smartphones and
+ similar devices.
+ .
+ This package contains the debugging symbols.

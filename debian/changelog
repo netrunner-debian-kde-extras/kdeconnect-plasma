@@ -1,0 +1,49 @@
+kdeconnect-plasma (0.0+git20150302-0ubuntu1) vivid; urgency=medium
+
+  * Sync with Debian
+  * Update package for kdeconnect-plasma
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Mar 2015 19:23:55 +0100
+
+kdeconnect (0.7.2-1) unstable; urgency=medium
+
+  * New upstream version.
+  * Drop patch 'provide-versioned-so-for-kdeconnectcore'.
+      Upstream implemented it.
+  * Add sshfs as a runtime dependency (Closes: #754300).
+      Is needed to remote browsing the devices filesystems.
+
+ -- David Suárez <david.sephirot@gmail.com>  Mon, 08 Sep 2014 20:27:20 +0200
+
+kdeconnect (0.7-1) unstable; urgency=medium
+
+  * New upstream version. (Closes: #753391)
+  * Add 'provide-versioned-so-for-kdeconnectcore' patch.
+  * Update lintian overrides.
+  * debian/rules: remove more development files in order to avoid
+      shipping them.
+  * debian/control: add libxtst-dev as a build dependency.
+
+ -- David Suárez <david.sephirot@gmail.com>  Tue, 01 Jul 2014 18:11:53 +0200
+
+kdeconnect (0.5.2.1-1) unstable; urgency=low
+
+  * New upstream version
+  * Drop 'remove-xdg-open-shebang' patch
+  * Point Vcs headers to debian git repository
+  * Update copyright file
+
+ -- David Suárez <david.sephirot@gmail.com>  Sun, 18 May 2014 15:50:33 +0200
+
+kdeconnect (0.4.2-2) unstable; urgency=low
+
+  * Add libqca2-plugin-gnupg and libqca2-plugin-ossl runtime depends.
+    (Closes: #735850)
+
+ -- David Suárez <david.sephirot@gmail.com>  Mon, 27 Jan 2014 19:56:34 +0100
+
+kdeconnect (0.4.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #734374)
+
+ -- David Suárez <david.sephirot@gmail.com>  Sun, 12 Jan 2014 02:14:23 +0100

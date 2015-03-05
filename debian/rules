@@ -1,0 +1,11 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
+
+override_dh_strip:
+	$(overridden_command) --dbg-package=kdeconnect-plasma5-dbg
+
+#dbus tests don't like to run
+override_dh_auto_test:
+	true
