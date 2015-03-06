@@ -1,7 +1,7 @@
 kdeconnect-plasma (0.0+git20150302-0ubuntu1) vivid; urgency=medium
 
   * Sync with Debian
-  * Update package for kdeconnect-plasma
+  * Update package for kdeconnect-plasma LP: #1427349
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Mar 2015 19:23:55 +0100
 
