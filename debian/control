@@ -28,8 +28,9 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kdeconnect-plasma.git
 Package: kdeconnect-plasma
 Architecture: any
 Depends: libqca-qt5-2-plugins, plasma-workspace, sshfs, ${misc:Depends}, ${shlibs:Depends}
-Conflicts: kdeconnect
-Replaces: kdeconnect
+Breaks: kdeconnect (<< 0.7.3-0ubuntu2)
+Replaces: kdeconnect (<< 0.7.3-0ubuntu2)
+Recommends: kdeconnect
 Description: connect smartphones to your KDE Plasma desktop
  Tool to integrate the KDE's Plasma desktop with your smartphones and
  similar devices.

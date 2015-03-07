@@ -1,3 +1,10 @@
+kdeconnect-plasma (0.0+git20150302-0ubuntu2) vivid; urgency=medium
+
+  * change conflicts on kdeconnect for breaks/replaces << 0.7.3-0ubuntu2
+  * recommend kdeconnect for kioslave and file action
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 07 Mar 2015 01:20:31 +0100
+
 kdeconnect-plasma (0.0+git20150302-0ubuntu1) vivid; urgency=medium
 
   * Sync with Debian
