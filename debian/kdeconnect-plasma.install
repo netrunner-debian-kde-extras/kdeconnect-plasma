@@ -8,7 +8,6 @@ usr/lib/*/libkdeconnectinterfaces.so.0.*
 usr/lib/*/qt5/plugins/kcm_kdeconnect.so
 usr/lib/*/qt5/plugins/kdeconnect/*
 usr/lib/*/qt5/plugins/kio_kdeconnect.so
-usr/lib/*/qt5/plugins/libkdeconnect_screensaver_inhibit.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/libkdeconnectdeclarativeplugin.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/qmldir
 usr/share/applications/kdeconnect-non-plasma.desktop
