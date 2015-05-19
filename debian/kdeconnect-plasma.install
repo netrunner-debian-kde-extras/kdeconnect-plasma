@@ -11,8 +11,7 @@ usr/lib/*/qt5/qml/org/kde/kdeconnect/qmldir
 usr/share/applications/kdeconnect-non-plasma.desktop
 usr/share/applications/kdeconnect.desktop
 usr/share/dbus-1/services/org.kde.kdeconnect.service
-usr/share/icons/hicolor/*/apps/kdeconnect.png
-usr/share/icons/hicolor/*/apps/kdeconnect.svgz
+usr/share/icons/hicolor/*
 usr/share/knotifications5/kdeconnect.notifyrc
 usr/share/kservices5/*
 usr/share/kservicetypes5/kdeconnect_plugin.desktop
