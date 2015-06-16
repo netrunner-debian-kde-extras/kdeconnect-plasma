@@ -1,3 +1,9 @@
+kdeconnect-plasma (0.0+git20150316-0ubuntu1) vivid; urgency=medium
+
+  * New upstream snapshot for systray icon fix
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 13 Mar 2015 21:12:31 +0100
+
 kdeconnect-plasma (0.0+git20150302-0ubuntu2) vivid; urgency=medium
 
   * change conflicts on kdeconnect for breaks/replaces << 0.7.3-0ubuntu2
