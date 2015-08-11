@@ -1,4 +1,10 @@
-kdeconnect-plasma (0.0+git20150316-0ubuntu1) vivid; urgency=medium
+kdeconnect-plasma (0.0+git20150810-0ubuntu1) wily; urgency=medium
+
+  * New upstream snapshot to fix functionality.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sun, 02 Aug 2015 01:21:51 -0700
+
+kdeconnect-plasma (0.0+git20150313-0ubuntu1) vivid; urgency=medium
 
   * New upstream snapshot for systray icon fix
 
