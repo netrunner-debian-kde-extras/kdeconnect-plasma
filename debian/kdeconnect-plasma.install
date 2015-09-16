@@ -2,11 +2,11 @@ etc/xdg/autostart/kdeconnectd.desktop
 usr/bin/kdeconnect-cli
 usr/lib/*/libexec/kdeconnectd
 usr/lib/*/libkdeconnectcore.so.0
-usr/lib/*/libkdeconnectcore.so.0.8.0
+usr/lib/*/libkdeconnectcore.so.0.*
 usr/lib/*/libkdeconnectinterfaces.so.0
-usr/lib/*/libkdeconnectinterfaces.so.0.8.0
+usr/lib/*/libkdeconnectinterfaces.so.0.*
 usr/lib/*/libkdeconnectpluginkcm.so.0
-usr/lib/*/libkdeconnectpluginkcm.so.0.8.0
+usr/lib/*/libkdeconnectpluginkcm.so.0.*
 usr/lib/*/qt5/plugins/kcm_kdeconnect.so
 usr/lib/*/qt5/plugins/kdeconnect/*
 usr/lib/*/qt5/plugins/kdeconnect_pausemusic_config.so
