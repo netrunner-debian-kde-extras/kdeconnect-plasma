@@ -1,4 +1,4 @@
-kdeconnect-plasma (0.9f-0ubuntu1) xenial; urgency=medium
+kdeconnect-plasma (0.9f-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release (adopting upstream version number) 
   * Fixed install file to include translations, changed filenames
