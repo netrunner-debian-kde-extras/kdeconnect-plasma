@@ -52,6 +52,7 @@ usr/share/kservices5/kdeconnect_share_config.desktop
 usr/share/kservices5/kdeconnectsendfile.desktop
 usr/share/kservices5/plasma-kdeconnect.desktop
 usr/share/kservicetypes5/kdeconnect_plugin.desktop
+usr/share/locale/
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/Battery.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/CompactRepresentation.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/DeviceDelegate.qml
