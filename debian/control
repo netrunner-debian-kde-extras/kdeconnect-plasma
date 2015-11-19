@@ -25,7 +25,7 @@ Build-Depends: cmake,
                qtbase5-dev,
                qtdeclarative5-dev
 Standards-Version: 3.9.6
-Homepage: https://projects.kde.org/projects/playground/base/kdeconnect-kde
+Homepage: https://community.kde.org/KDEConnect
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/kdeconnect-plasma.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/kdeconnect-plasma.git
 
