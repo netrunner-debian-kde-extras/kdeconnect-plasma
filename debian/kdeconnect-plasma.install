@@ -2,11 +2,11 @@ etc/xdg/autostart/kdeconnectd.desktop
 usr/bin/kdeconnect-cli
 usr/lib/*/libexec/kdeconnectd
 usr/lib/*/libkdeconnectcore.so.0
-usr/lib/*/libkdeconnectcore.so.0.8.0
+usr/lib/*/libkdeconnectcore.so.0.9.0
 usr/lib/*/libkdeconnectinterfaces.so.0
-usr/lib/*/libkdeconnectinterfaces.so.0.8.0
+usr/lib/*/libkdeconnectinterfaces.so.0.9.0
 usr/lib/*/libkdeconnectpluginkcm.so.0
-usr/lib/*/libkdeconnectpluginkcm.so.0.8.0
+usr/lib/*/libkdeconnectpluginkcm.so.0.9.0
 usr/lib/*/qt5/plugins/kcm_kdeconnect.so
 usr/lib/*/qt5/plugins/kdeconnect/*
 usr/lib/*/qt5/plugins/kdeconnect_pausemusic_config.so
@@ -15,8 +15,8 @@ usr/lib/*/qt5/plugins/kdeconnectfiletiemaction.so
 usr/lib/*/qt5/plugins/kio_kdeconnect.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/libkdeconnectdeclarativeplugin.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/qmldir
-usr/share/applications/kdeconnect-non-plasma.desktop
-usr/share/applications/kdeconnect.desktop
+usr/share/applications/org.kde.kdeconnect.kcm.desktop
+usr/share/applications/org.kde.kdeconnect.nonplasma.desktop
 usr/share/dbus-1/services/org.kde.kdeconnect.service
 usr/share/icons/hicolor/128x128/apps/kdeconnect.png
 usr/share/icons/hicolor/16x16/apps/kdeconnect.png

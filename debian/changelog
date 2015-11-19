@@ -1,7 +1,8 @@
 kdeconnect-plasma (0.9f-0ubuntu1) xenial; urgency=medium
 
   * New upstream release (adopting upstream version number) 
-  * Fixed install file to include translations
+  * Fixed install file to include translations, changed filenames
+    for new desktop files and incremented so version numbers
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 19 Nov 2015 20:11:28 +0000
 
