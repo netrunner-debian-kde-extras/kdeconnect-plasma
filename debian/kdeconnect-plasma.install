@@ -7,6 +7,7 @@ usr/lib/*/libkdeconnectpluginkcm.so.0*
 usr/lib/*/qt5/plugins/kcm_kdeconnect.so
 usr/lib/*/qt5/plugins/kdeconnect/*
 usr/lib/*/qt5/plugins/kdeconnect_pausemusic_config.so
+usr/lib/*/qt5/plugins/kdeconnect_runcommand_config.so
 usr/lib/*/qt5/plugins/kdeconnect_share_config.so
 usr/lib/*/qt5/plugins/kdeconnectfiletiemaction.so
 usr/lib/*/qt5/plugins/kio_kdeconnect.so
@@ -39,6 +40,7 @@ usr/share/knotifications5/kdeconnect.notifyrc
 usr/share/kservices5/kcm_kdeconnect.desktop
 usr/share/kservices5/kdeconnect.protocol
 usr/share/kservices5/kdeconnect_pausemusic_config.desktop
+usr/share/kservices5/kdeconnect_runcommand_config.desktop
 usr/share/kservices5/kdeconnect_share_config.desktop
 usr/share/kservices5/kdeconnectsendfile.desktop
 usr/share/kservices5/plasma-kdeconnect.desktop
@@ -47,6 +49,7 @@ usr/share/locale/
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/Battery.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/CompactRepresentation.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/DeviceDelegate.qml
+usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/FindMyPhone.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/FullRepresentation.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/Sftp.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/main.qml
