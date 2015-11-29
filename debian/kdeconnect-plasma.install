@@ -9,7 +9,6 @@ usr/lib/*/qt5/plugins/kdeconnect/*
 usr/lib/*/qt5/plugins/kdeconnect_pausemusic_config.so
 usr/lib/*/qt5/plugins/kdeconnect_runcommand_config.so
 usr/lib/*/qt5/plugins/kdeconnect_share_config.so
-usr/lib/*/qt5/plugins/kdeconnectfiletiemaction.so
 usr/lib/*/qt5/plugins/kio_kdeconnect.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/libkdeconnectdeclarativeplugin.so
 usr/lib/*/qt5/qml/org/kde/kdeconnect/qmldir
