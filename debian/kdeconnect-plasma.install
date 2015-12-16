@@ -6,6 +6,7 @@ usr/lib/*/libkdeconnectinterfaces.so.0*
 usr/lib/*/libkdeconnectpluginkcm.so.0*
 usr/lib/*/qt5/plugins/kcm_kdeconnect.so
 usr/lib/*/qt5/plugins/kdeconnect/*
+usr/lib/*/qt5/plugins/kdeconnect_notifications_config.so
 usr/lib/*/qt5/plugins/kdeconnect_pausemusic_config.so
 usr/lib/*/qt5/plugins/kdeconnect_runcommand_config.so
 usr/lib/*/qt5/plugins/kdeconnect_share_config.so
@@ -39,6 +40,7 @@ usr/share/icons/hicolor/scalable/status/tablet-trusted.svg
 usr/share/knotifications5/kdeconnect.notifyrc
 usr/share/kservices5/kcm_kdeconnect.desktop
 usr/share/kservices5/kdeconnect.protocol
+usr/share/kservices5/kdeconnect_notifications_config.desktop
 usr/share/kservices5/kdeconnect_pausemusic_config.desktop
 usr/share/kservices5/kdeconnect_runcommand_config.desktop
 usr/share/kservices5/kdeconnect_share_config.desktop
