@@ -6,6 +6,7 @@ XSBC-Original-Maintainer: Maintainer: David Suárez <david.sephirot@gmail.com>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
                extra-cmake-modules,
+               kdoctools-dev,
                kio-dev,
                kwayland-dev,
                libfakekey-dev,
