@@ -4,6 +4,7 @@ kdeconnect-plasma (0.9f-0ubuntu1) UNRELEASED; urgency=medium
   * Fixed install file to include translations, changed filenames
     for new desktop files and incremented so version numbers
   * Fixed install file for typo (kdeconnectfileitemaction.so)
+  * Adding usr/share/doc/HTML/en/kdeconnect/ to install file
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 19 Nov 2015 20:11:28 +0000
 
