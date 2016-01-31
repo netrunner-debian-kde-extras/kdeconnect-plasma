@@ -18,6 +18,8 @@ usr/share/applications/org.kde.kdeconnect.kcm.desktop
 usr/share/applications/org.kde.kdeconnect.nonplasma.desktop
 usr/share/doc/HTML/en/kdeconnect
 usr/share/dbus-1/services/org.kde.kdeconnect.service
+usr/share/doc/HTML/en/kdeconnect/index.cache.bz2
+usr/share/doc/HTML/en/kdeconnect/index.docbook
 usr/share/icons/hicolor/*/apps/kdeconnect.png
 usr/share/icons/hicolor/*/status/laptop-connected.png
 usr/share/icons/hicolor/*/status/laptop-disconnected.png
@@ -48,7 +50,6 @@ usr/share/kservices5/kdeconnect_share_config.desktop
 usr/share/kservices5/kdeconnectsendfile.desktop
 usr/share/kservices5/plasma-kdeconnect.desktop
 usr/share/kservicetypes5/kdeconnect_plugin.desktop
-usr/share/locale/
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/Battery.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/CompactRepresentation.qml
 usr/share/plasma/plasmoids/org.kde.kdeconnect/contents/ui/DeviceDelegate.qml
